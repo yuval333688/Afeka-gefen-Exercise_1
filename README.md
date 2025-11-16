@@ -27,5 +27,6 @@ Only the technologies allowed in the assignment:
 
 ## GitHub Pages Link
 After enabling GitHub Pages, the website will be available at:
+https://yuval333688.github.io/Afeka-gefen-Exercise_1/
 
 

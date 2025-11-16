@@ -10,10 +10,14 @@ The website includes:
 - Five separate pages, each representing one site:
   - `web1.html`
    https://yuval333688.github.io/Afeka-gefen-Exercise_1/web1.html
-  - `web2.html` 
-  - `web3.html` 
-  - `web4.html`  
-  - `web5.html` 
+  - `web2.html`
+    https://yuval333688.github.io/Afeka-gefen-Exercise_1/web2.html
+  - `web3.html`
+    https://yuval333688.github.io/Afeka-gefen-Exercise_1/web3.html
+  - `web4.html`
+    https://yuval333688.github.io/Afeka-gefen-Exercise_1/web4.html
+  - `web5.html`
+    https://yuval333688.github.io/Afeka-gefen-Exercise_1/web5.html
 
 Each page includes:
 - A simple layout in HTML only (no advanced technologies)

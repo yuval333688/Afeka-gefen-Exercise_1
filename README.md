@@ -7,6 +7,7 @@ This project was created as part of the Web Development course at Afeka College.
 
 The website includes:
 - A main homepage (`index.html`)
+  https://yuval333688.github.io/Afeka-gefen-Exercise_1/index.html
 - Five separate pages, each representing one site:
   - `web1.html`
    https://yuval333688.github.io/Afeka-gefen-Exercise_1/web1.html

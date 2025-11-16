@@ -9,6 +9,7 @@ The website includes:
 - A main homepage (`index.html`)
 - Five separate pages, each representing one site:
   - `web1.html`
+   https://yuval333688.github.io/Afeka-gefen-Exercise_1/web1.html
   - `web2.html` 
   - `web3.html` 
   - `web4.html`  
